@@ -1,0 +1,85 @@
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\bin\Debug\net6.0\Shared.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\bin\Debug\net6.0\Shared.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\bin\Debug\net6.0\Shared.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\bin\Debug\net6.0\Shared.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\bin\Debug\net6.0\Shared.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\bin\Debug\net6.0\Shared.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\bin\Debug\net6.0\Shared.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\bin\Debug\net6.0\Shared.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\bin\Debug\net6.0\Entities.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\bin\Debug\net6.0\Shared.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\bin\Debug\net6.0\Entities.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\bin\Debug\net6.0\Shared.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

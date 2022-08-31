@@ -1,0 +1,67 @@
+﻿CREATE TABLE FUNCIONARIOS
+(
+ID INT IDENTITY PRIMARY KEY NOT NULL,
+NOME VARCHAR(100) NOT NULL,
+CPF CHAR(11) NOT NULL,
+RG VARCHAR(15) NOT NULL,
+ENDERECO INT NOT NULL,
+TELEFONE VARCHAR(15) NOT NULL,
+EMAIL VARCHAR(45) NOT NULL,
+SENHA VARCHAR(45) NOT NULL,
+NIVEL_DE_PERMISSAO INT NOT NULL, --1 = ADM; 2 = FUNCIONARIO
+
+CONSTRAINT FK_FUNCIONARIOS_ENDERECOS FOREIGN KEY(ENDERECO) REFERENCES ENDERECOS
+)																							       --NOME ,     CPF     ,  RG  , ENDERECO, TELEFONE
+INSERT INTO FUNCIONARIOS(NOME,CPF,RG,ENDERECO,TELEFONE,EMAIL,SENHA,NIVEL_DE_PERMISSAO) VALUES ('ADM','10897426908','5169319',2,'(47)99122-2051','admin@admin.com','admin',1)
+
+
+CREATE TABLE ENDERECOS
+(
+ID INT PRIMARY KEY IDENTITY,
+RUA VARCHAR(100) NOT NULL,
+NUM_CASA VARCHAR(45) NOT NULL,
+COMPLEMENTO VARCHAR(45) NOT NULL,
+BAIRRO VARCHAR(100) NOT NULL,
+CIDADE VARCHAR(100) NOT NULL,
+ESTADO INT NOT NULL,
+CEP CHAR(8) NOT NULL,
+CONSTRAINT FK_ENDERECOS_ESTADOS FOREIGN KEY(ESTADO) REFERENCES ESTADOS
+)
+INSERT INTO ENDERECOS(RUA,NUM_CASA,COMPLEMENTO,BAIRRO,CIDADE,ESTADO,CEP) VALUES ('Rua teste','1','complemento teste','bairro teste','cidade teste',24,'89030030')
+
+
+CREATE TABLE ESTADOS
+(
+ID INT IDENTITY PRIMARY KEY,
+NOME VARCHAR(75),
+UF VARCHAR(2)
+)
+INSERT INTO ESTADOS (NOME, UF) 
+VALUES
+('Acre', 'AC'),
+('Alagoas', 'AL'),
+('Amazonas', 'AM'),
+('Amapá', 'AP'),
+('Bahia', 'BA'),
+('Ceará', 'CE'),
+('Distrito Federal', 'DF'),
+('Espírito Santo','ES'),
+('Goiás', 'GO'),
+( 'Maranhão', 'MA'),
+( 'Minas Gerais', 'MG'),
+( 'Mato Grosso do Sul','MS'),
+( 'Mato Grosso', 'MT'),
+( 'Pará', 'PA'),
+( 'Paraíba', 'PB'),
+( 'Pernambuco', 'PE'),
+( 'Piauí', 'PI'),
+( 'Paraná', 'PR'),
+( 'Rio de Janeiro','RJ'),
+( 'Rio Grande do Norte','RN'),
+( 'Rondônia', 'RO'),
+( 'Roraima', 'RR'),
+( 'Rio Grande do Sul', 'RS'),
+( 'Santa Catarina', 'SC'),
+( 'Sergipe', 'SE'),
+( 'São Paulo', 'SP'),
+( 'Tocantins', 'TO')

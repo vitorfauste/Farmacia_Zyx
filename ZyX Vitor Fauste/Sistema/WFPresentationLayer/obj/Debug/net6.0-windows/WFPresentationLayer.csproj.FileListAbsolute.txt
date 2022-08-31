@@ -1,0 +1,192 @@
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCadastroFuncionario.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.exe
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.deps.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.runtimeconfig.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CopyComplete
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\refint\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows\ref\WFPresentationLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.exe
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.deps.json
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.runtimeconfig.json
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCadastroFuncionario.resources
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCadastroLaboratorio.resources
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CopyComplete
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\refint\WFPresentationLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\ref\WFPresentationLayer.dll
+C:\Users\entra21\Downloads\Farmácia ZyX v1.6\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCadastroCliente.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.exe
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.deps.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.runtimeconfig.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CopyComplete
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\refint\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\ref\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCliente.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormFuncionario.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormLaboratorio.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormProduto.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormLogin.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormMenu.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCompra.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormVenda.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormFornecedor.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormModalProdutosCompra.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.7\Farmácia ZyX v1.7\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormModalProdutosVenda.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCliente.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCompra.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormFornecedor.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormFuncionario.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormLaboratorio.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormLogin.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormMenu.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormModalProdutosCompra.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormProduto.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormVenda.resources
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\refint\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.exe
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.deps.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.runtimeconfig.json
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.pdb
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CopyComplete
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\ref\WFPresentationLayer.dll
+C:\Users\vtor_\OneDrive\Documentos\Entra 21\Farmácia ZyX v1.8\Farmácia ZyX v1.8\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.Properties.Resources.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.exe
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.deps.json
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.runtimeconfig.json
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\BusinessLogicalLayer.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\Entities.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\bin\Debug\net6.0-windows\Shared.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCliente.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormCompra.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormFornecedor.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormFuncionario.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormLaboratorio.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormLogin.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormMenu.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormModalProdutosCompra.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormProduto.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.FormVenda.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.Properties.Resources.resources
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.csproj.CopyComplete
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\refint\WFPresentationLayer.dll
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.pdb
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\vtor_\Downloads\ZyX Braun e Fauste\ZyX Vitor Fauste\Sistema\WFPresentationLayer\obj\Debug\net6.0-windows\ref\WFPresentationLayer.dll
